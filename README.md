@@ -23,6 +23,8 @@ docker build -t <image-name> .
 docker run --rm -p 80:80 -i -t image-name:latest /bin/bash
 ```
 or if you use windows you can start with Container (dockefile) 
+
+
 *dont forget add environment to docker - you should add your connection string as environment on docker*
 
 ## Authors
