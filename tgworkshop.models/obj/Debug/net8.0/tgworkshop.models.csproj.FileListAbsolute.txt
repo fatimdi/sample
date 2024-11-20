@@ -1,0 +1,12 @@
+C:\Users\HP\source\tgworkshop\tgworkshop.models\bin\Debug\net8.0\tgworkshop.models.deps.json
+C:\Users\HP\source\tgworkshop\tgworkshop.models\bin\Debug\net8.0\tgworkshop.models.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.models\bin\Debug\net8.0\tgworkshop.models.pdb
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\tgworkshop.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\tgworkshop.models.AssemblyInfoInputs.cache
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\tgworkshop.models.AssemblyInfo.cs
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\tgworkshop.models.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\tgworkshop.models.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\refint\tgworkshop.models.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\tgworkshop.models.pdb
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\ref\tgworkshop.models.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.models\obj\Debug\net8.0\tgworkshop.models.csproj.AssemblyReference.cache

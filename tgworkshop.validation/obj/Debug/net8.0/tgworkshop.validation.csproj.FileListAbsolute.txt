@@ -1,0 +1,15 @@
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\bin\Debug\net8.0\tgworkshop.validation.deps.json
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\bin\Debug\net8.0\tgworkshop.validation.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\bin\Debug\net8.0\tgworkshop.validation.pdb
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\tgworkshop.validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\tgworkshop.validation.AssemblyInfoInputs.cache
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\tgworkshop.validation.AssemblyInfo.cs
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\tgworkshop.validation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\tgworkshop.validation.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\refint\tgworkshop.validation.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\tgworkshop.validation.pdb
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\ref\tgworkshop.validation.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\bin\Debug\net8.0\tgworkshop.models.dll
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\bin\Debug\net8.0\tgworkshop.models.pdb
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\tgworkshop.validation.csproj.AssemblyReference.cache
+C:\Users\HP\source\tgworkshop\tgworkshop.validation\obj\Debug\net8.0\tgworksh.F522DF3E.Up2Date

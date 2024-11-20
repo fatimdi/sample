@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLGiIu0Tbap0HJ+32S/3EsSUcqiOIFMoSyZL5bNIA8Rg6Eqm6OuCsB+SHlSDRmRuytZIKIoBEG9fCb/sljbXVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\tgworkshop\\tgworkshop.validation\\tgworkshop.validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

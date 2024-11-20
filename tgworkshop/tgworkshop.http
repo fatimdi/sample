@@ -1,0 +1,6 @@
+@tgworkshop_HostAddress = http://localhost:5078
+
+GET {{tgworkshop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

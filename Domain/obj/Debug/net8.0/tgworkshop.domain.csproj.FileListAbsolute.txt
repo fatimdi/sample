@@ -1,0 +1,11 @@
+C:\Users\HP\source\tgworkshop\Domain\bin\Debug\net8.0\tgworkshop.domain.deps.json
+C:\Users\HP\source\tgworkshop\Domain\bin\Debug\net8.0\tgworkshop.domain.dll
+C:\Users\HP\source\tgworkshop\Domain\bin\Debug\net8.0\tgworkshop.domain.pdb
+C:\Users\HP\source\tgworkshop\Domain\obj\Debug\net8.0\tgworkshop.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\tgworkshop\Domain\obj\Debug\net8.0\tgworkshop.domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\tgworkshop\Domain\obj\Debug\net8.0\tgworkshop.domain.AssemblyInfo.cs
+C:\Users\HP\source\tgworkshop\Domain\obj\Debug\net8.0\tgworkshop.domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\tgworkshop\Domain\obj\Debug\net8.0\tgworkshop.domain.dll
+C:\Users\HP\source\tgworkshop\Domain\obj\Debug\net8.0\refint\tgworkshop.domain.dll
+C:\Users\HP\source\tgworkshop\Domain\obj\Debug\net8.0\tgworkshop.domain.pdb
+C:\Users\HP\source\tgworkshop\Domain\obj\Debug\net8.0\ref\tgworkshop.domain.dll
